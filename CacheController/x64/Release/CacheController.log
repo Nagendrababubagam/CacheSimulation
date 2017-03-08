@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  CacheController.cpp
+CacheController.cpp(59): warning C4018: '<': signed/unsigned mismatch
+CacheController.cpp(96): warning C4018: '<': signed/unsigned mismatch
+CacheController.cpp(438): warning C4018: '>': signed/unsigned mismatch
+CacheController.cpp(560): warning C4018: '>': signed/unsigned mismatch
+CacheController.cpp(567): warning C4311: 'type cast': pointer truncation from 'void *' to 'uint32_t'
+CacheController.cpp(567): warning C4302: 'type cast': truncation from 'void *' to 'uint32_t'
+CacheController.cpp(588): warning C4311: 'type cast': pointer truncation from 'void *' to 'uint32_t'
+CacheController.cpp(588): warning C4302: 'type cast': truncation from 'void *' to 'uint32_t'
+  Generating code
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CacheController.vcxproj -> C:\Users\NagendraBabu\documents\visual studio 2015\Projects\CacheController\x64\Release\CacheController.exe
+  CacheController.vcxproj -> C:\Users\NagendraBabu\documents\visual studio 2015\Projects\CacheController\x64\Release\CacheController.pdb (Full PDB)

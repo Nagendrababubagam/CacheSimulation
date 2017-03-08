@@ -1,0 +1,7 @@
+﻿  CacheController.cpp
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(438): warning C4018: '>': signed/unsigned mismatch
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(559): warning C4018: '>': signed/unsigned mismatch
+  CacheController.vcxproj -> C:\Users\NagendraBabu\documents\visual studio 2015\Projects\CacheController\Debug\CacheController.exe
+  CacheController.vcxproj -> C:\Users\NagendraBabu\documents\visual studio 2015\Projects\CacheController\Debug\CacheController.pdb (Full PDB)

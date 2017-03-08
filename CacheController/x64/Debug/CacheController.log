@@ -1,0 +1,7 @@
+﻿  CacheController.cpp
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(583): warning C4311: 'type cast': pointer truncation from 'void *' to 'uint32_t'
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(583): warning C4302: 'type cast': truncation from 'void *' to 'uint32_t'
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(604): warning C4311: 'type cast': pointer truncation from 'void *' to 'uint32_t'
+c:\users\nagendrababu\documents\visual studio 2015\projects\cachecontroller\cachecontroller\cachecontroller.cpp(604): warning C4302: 'type cast': truncation from 'void *' to 'uint32_t'
+  CacheController.vcxproj -> C:\Users\NagendraBabu\documents\visual studio 2015\Projects\CacheController\x64\Debug\CacheController.exe
+  CacheController.vcxproj -> C:\Users\NagendraBabu\documents\visual studio 2015\Projects\CacheController\x64\Debug\CacheController.pdb (Full PDB)
